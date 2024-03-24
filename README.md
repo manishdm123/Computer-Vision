@@ -1,9 +1,9 @@
-Computer-Vision
+# Computer-Vision
 ==============================
 
 Experiments with OpenCV and Neural Networks
 
-Project Organization
+## Project Organization
 ------------
 
     ├── LICENSE
@@ -54,4 +54,6 @@ Project Organization
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+<p><small> My profile on <a target="_blank" href="https://www.linkedin.com/in/manishdm/">Linkedin</a>. #cookiecutterdatascience</small></p>
+
+## Referances:
