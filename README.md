@@ -56,7 +56,5 @@ Experiments with OpenCV and Neural Networks
 
 <p><small> My profile on <a target="_blank" href="https://www.linkedin.com/in/manishdm/">Linkedin</a> </small></p>
 
-## References:
-- Learn the latest techniques in computer vision with Python , OpenCV , and Deep Learning! : Jose Portilla
-- <p><small> <a target="_blank" href=" https://medium.com/@mrdatainsight/how-to-use-opencv-imshow-in-a-jupyter-notebook-quick-tip-ce83fa32b5ad"> How to use OpenCV imshow in a Jupyter Notebook</a> </small></p> 
+
 - 
